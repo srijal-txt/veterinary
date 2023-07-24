@@ -1,0 +1,25 @@
+.collection-body{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 1rem;
+    margin-bottom: 3rem;
+}
+.collection{
+    svg{
+        margin-left: 20px;
+        color: #007FFF;
+        padding: 2px 5px;
+        background: #fff;
+        border-radius: 50%;
+    }
+}
+@media (min-width:481px) and (max-width:767px){
+    .collection-body{
+        grid-template-columns: auto auto;
+    }
+}
+@media (max-width:480px){
+    .collection-body{
+        grid-template-columns: auto;
+    }
+}

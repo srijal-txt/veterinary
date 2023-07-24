@@ -1,0 +1,17 @@
+
+.service-body{
+    margin: 2rem 0;
+    display: grid;
+    gap: 36px;
+    grid-template-columns: auto auto auto;
+}
+@media (min-width:481px) and (max-width:767px){
+    .service-body{
+        grid-template-columns: auto auto;
+    }
+}
+@media (max-width:480px){
+    .service-body{
+        grid-template-columns: auto;
+    }
+}

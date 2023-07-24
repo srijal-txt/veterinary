@@ -1,0 +1,31 @@
+.pet-card{
+    border-radius: 12px;
+    border: 1px solid #D4D2E3;
+    background: #FFF;
+    padding: 0.5rem;
+}
+.pet-img{
+    img{
+        width: 100%;
+    }
+}
+.pet-details{
+    padding: 10px 5px;
+    h4{
+        color: #17224D;
+        font-size: 16px;
+        font-weight: 800;
+        margin-bottom: 0.5rem;
+    }
+    p{
+        color: #515151;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    span{
+        color: #292929;
+        font-size: 12px;
+        font-weight: 700;
+        margin-right: 3rem;
+    }
+}

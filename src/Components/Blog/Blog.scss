@@ -1,0 +1,16 @@
+.blog-body{
+    margin: 2rem 0;
+    display: grid;
+    gap: 36px;
+    grid-template-columns: auto auto auto;
+}
+@media (min-width:481px) and (max-width:767px){
+    .blog-body{
+        grid-template-columns: auto;
+    }
+}
+@media (max-width:480px){
+    .blog-body{
+        grid-template-columns: auto;
+    }
+}
