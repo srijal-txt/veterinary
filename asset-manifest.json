@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/veterinary/static/css/main.0a43ae75.css",
+    "main.js": "/veterinary/static/js/main.36295377.js",
+    "static/js/787.e6cb60ff.chunk.js": "/veterinary/static/js/787.e6cb60ff.chunk.js",
+    "static/media/sliderbg.jpg": "/veterinary/static/media/sliderbg.4c7bf62210775e764522.jpg",
+    "static/media/aboutimg.jpg": "/veterinary/static/media/aboutimg.bd97ba98ac49f18d387f.jpg",
+    "static/media/banner.jpg": "/veterinary/static/media/banner.883a9de71d54e7b7e850.jpg",
+    "static/media/services5.jpg": "/veterinary/static/media/services5.a840ac3e30663b9553fd.jpg",
+    "static/media/services4.jpg": "/veterinary/static/media/services4.1b875aca22d0822b90b3.jpg",
+    "static/media/blog3.jpg": "/veterinary/static/media/blog3.9e1918335266e772a8df.jpg",
+    "static/media/services3.jpg": "/veterinary/static/media/services3.72aa699008dc907641ff.jpg",
+    "static/media/pet1.jpg": "/veterinary/static/media/pet1.7390def1d1d40ac64609.jpg",
+    "static/media/pet4.jpg": "/veterinary/static/media/pet4.679aa106c5a677cfea73.jpg",
+    "static/media/pet2.jpg": "/veterinary/static/media/pet2.d39fb58c458875c2e74f.jpg",
+    "static/media/pet7.jpg": "/veterinary/static/media/pet7.1e096109549578429f46.jpg",
+    "static/media/services2.jpg": "/veterinary/static/media/services2.64cfac6f0da246031fc0.jpg",
+    "static/media/pet3.jpg": "/veterinary/static/media/pet3.4904b53627f5b955a9db.jpg",
+    "static/media/services6.jpg": "/veterinary/static/media/services6.9146ffefe23e959ae824.jpg",
+    "static/media/services1.jpg": "/veterinary/static/media/services1.6e6d464a7bb1a4087d43.jpg",
+    "static/media/blog1.jpg": "/veterinary/static/media/blog1.aa11e66eb044e0abb481.jpg",
+    "static/media/pet6.jpg": "/veterinary/static/media/pet6.c7e46ad0977b7d03f694.jpg",
+    "static/media/pet5.jpg": "/veterinary/static/media/pet5.95eb57e2493652af97d2.jpg",
+    "static/media/blog2.jpg": "/veterinary/static/media/blog2.32683d28f85eaf9ab87a.jpg",
+    "static/media/pet8.jpg": "/veterinary/static/media/pet8.4504439d95be723ec483.jpg",
+    "static/media/gallery3.jpg": "/veterinary/static/media/gallery3.d19275c399f26579dc12.jpg",
+    "static/media/gallery2.jpg": "/veterinary/static/media/gallery2.e6c08730ca44352e3a38.jpg",
+    "static/media/gallery4.jpg": "/veterinary/static/media/gallery4.b4147d7cba607ce4c273.jpg",
+    "static/media/gallery1.jpg": "/veterinary/static/media/gallery1.8b9de5ace884668cda9f.jpg",
+    "static/media/check.svg": "/veterinary/static/media/check.582d60876104798c38cfc5c8343c3a3e.svg",
+    "index.html": "/veterinary/index.html",
+    "main.0a43ae75.css.map": "/veterinary/static/css/main.0a43ae75.css.map",
+    "main.36295377.js.map": "/veterinary/static/js/main.36295377.js.map",
+    "787.e6cb60ff.chunk.js.map": "/veterinary/static/js/787.e6cb60ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a43ae75.css",
+    "static/js/main.36295377.js"
+  ]
+}
