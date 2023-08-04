@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/veterinary/static/css/main.0a43ae75.css",
+    "main.css": "/veterinary/static/css/main.f16971ba.css",
     "main.js": "/veterinary/static/js/main.36295377.js",
     "static/js/787.e6cb60ff.chunk.js": "/veterinary/static/js/787.e6cb60ff.chunk.js",
     "static/media/sliderbg.jpg": "/veterinary/static/media/sliderbg.4c7bf62210775e764522.jpg",
@@ -29,12 +29,12 @@
     "static/media/gallery1.jpg": "/veterinary/static/media/gallery1.8b9de5ace884668cda9f.jpg",
     "static/media/check.svg": "/veterinary/static/media/check.582d60876104798c38cfc5c8343c3a3e.svg",
     "index.html": "/veterinary/index.html",
-    "main.0a43ae75.css.map": "/veterinary/static/css/main.0a43ae75.css.map",
+    "main.f16971ba.css.map": "/veterinary/static/css/main.f16971ba.css.map",
     "main.36295377.js.map": "/veterinary/static/js/main.36295377.js.map",
     "787.e6cb60ff.chunk.js.map": "/veterinary/static/js/787.e6cb60ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a43ae75.css",
+    "static/css/main.f16971ba.css",
     "static/js/main.36295377.js"
   ]
 }
